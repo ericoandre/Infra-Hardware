@@ -1,4 +1,4 @@
-# os passos da questão e necessário para responder a questao 2
+# os passos da questão 1 e necessário para responder a questao 2
 
 li x8, 0x10010000	# salva o endereço inicial do array em x8
 
